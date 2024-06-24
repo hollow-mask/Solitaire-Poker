@@ -1,1 +1,3 @@
 # Solitaire-Poker
+
+Program simulates a game of Solitaire poker.The program uses enums and poker hand calculating functions to determine scoring. When the program starts running  it auto-generates a hand of five cards and gives the user an option to replace three of them by picking a number between one and five. The number you enter corresponds to which card you want to change one would be the first two would be the second so on and so forth. The user does not wish to change any of the cards they can press enter. For that round will be calculated and saved. Program runs for 10 rounds and then after those 10 Rounds have been completed a score sheet is printed. 
